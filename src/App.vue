@@ -166,6 +166,17 @@
                      target="_blank"
                      rel="noopener nofollow"
       >бэк</a></p>
+      <p>Словари:</p>
+      <ul>
+        <li><a target="_blank"
+               rel="noopener nofollow"
+               href="http://dict.ruslang.ru/freq.php?act=show&dic=freq_s&title=%D7%E0%F1%F2%EE%F2%ED%FB%E9%20%F1%EF%E8%F1%EE%EA%20%E8%EC%E5%ED%20%F1%F3%F9%E5%F1%F2%E2%E8%F2%E5%EB%FC%ED%FB%F5"
+        >Частотный список существительных</a></li>
+        <li><a target="_blank"
+               rel="noopener nofollow"
+               href="https://bezbukv.ru/mask/*****/noun"
+        >БезБукв.ру</a></li>
+      </ul>
       <template #modal-footer>
         <b-button
             variant="light"
